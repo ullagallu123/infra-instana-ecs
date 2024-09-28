@@ -1,1 +1,2 @@
-![Security Groups Port Allow](images/sg.drawio.svg)
+# Security Groups Demonstration on Traffic Flow
+![Security Groups](images/sg.drawio.svg)
