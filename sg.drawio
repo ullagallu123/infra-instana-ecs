@@ -81,7 +81,7 @@
           <mxGeometry x="40" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bsLsJeDPsuY6xlqFyv93-127" value="VPN" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
-          <mxGeometry x="680" y="130" width="120" height="60" as="geometry" />
+          <mxGeometry x="680" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bsLsJeDPsuY6xlqFyv93-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;flowAnimation=1;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="bsLsJeDPsuY6xlqFyv93-129" target="bsLsJeDPsuY6xlqFyv93-132">
           <mxGeometry relative="1" as="geometry" />
