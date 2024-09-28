@@ -1,1 +1,1 @@
-![Security Groups](sg.drawio.svg)
+![Security Groups Port Allow](images/sg.drawio.svg)
