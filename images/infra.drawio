@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" version="24.7.16">
   <diagram name="Page-1" id="yDt01ANhyej5JqWS6dFk">
-    <mxGraphModel dx="1260" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2110" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -167,8 +167,17 @@
         <mxCell id="Hb1TKC1Pl9qgVDZg1J_4-66" value="&lt;font color=&quot;#ff8000&quot;&gt;instana.konkas.tech&lt;/font&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.web_browser;" vertex="1" parent="1">
           <mxGeometry x="60" y="150" width="150" height="106.5" as="geometry" />
         </mxCell>
+        <mxCell id="Hb1TKC1Pl9qgVDZg1J_4-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;flowAnimation=1;" edge="1" parent="1" source="Hb1TKC1Pl9qgVDZg1J_4-67" target="Hb1TKC1Pl9qgVDZg1J_4-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="334" y="290" />
+              <mxPoint x="-10" y="290" />
+              <mxPoint x="-10" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Hb1TKC1Pl9qgVDZg1J_4-67" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.internet_gateway;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="300" y="167.25" width="69" height="72" as="geometry" />
+          <mxGeometry x="300" y="30" width="69" height="72" as="geometry" />
         </mxCell>
         <mxCell id="Hb1TKC1Pl9qgVDZg1J_4-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;flowAnimation=1;fillColor=#dae8fc;strokeColor=#8DBAFA;" edge="1" parent="1" source="Hb1TKC1Pl9qgVDZg1J_4-66" target="Hb1TKC1Pl9qgVDZg1J_4-67">
           <mxGeometry relative="1" as="geometry" />
